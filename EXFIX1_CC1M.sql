@@ -1,6 +1,6 @@
-create schema EXEFIXA_CC1M;
+create schema EXFIX1_CC1M;
 
-use EXEFIXA_CC1M;
+use EXFIX1_CC1M;
 
 create table if not exists participantes(
 part_numinsc int not null,
